@@ -17,7 +17,7 @@ def prepare(file):
     
     img_array=file/255
     
-    return img_array.reshape(-1,128,128,3)
+    return img_array.reshape(-1,128,128,4)
 
 class_dict={'Tomato Bacterial spot': 0,
             'Tomato Early blight': 1,
