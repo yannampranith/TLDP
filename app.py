@@ -55,7 +55,7 @@ def main():
     
 
 
-    st.title("Tomato Leaf Disease Prediction")
+    st.title("Tomato Leaf Disease Prediction by Pranith Reddy")
     st.subheader("Please upload the Tomato leaf image to predict ")
     image_file=st.file_uploader("Upload Image",type=["png","jpg","jpeg"])
 
