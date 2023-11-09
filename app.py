@@ -6,7 +6,7 @@ import random
 
 # Configure the app
 st.set_page_config(
-    page_title = 'Tomato Leaf Disease Predictor',
+    page_title = 'Tomato Leaf Disease Predictor by Pranith Reddy',
     page_icon = ":tomato:",
     
     initial_sidebar_state = 'auto'
